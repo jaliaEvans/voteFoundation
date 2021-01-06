@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/jaliaEvans/voteFoundation#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "fs": "0.0.1-security",
     "gulp": "^4.0.2",
